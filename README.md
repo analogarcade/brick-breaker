@@ -1,5 +1,7 @@
 # Neon Breaker
 
+![Neon Breaker cover](assets/brick-breaker-cover.svg)
+
 A polished, single-file Brick Breaker / Arkanoid game built with native browser technologies. It uses an HTML5 Canvas for rendering, modern vanilla JavaScript for gameplay, and the Web Audio API for procedural retro synth effects.
 
 ## Play locally
